@@ -1,10 +1,10 @@
 ### Hi there 👋 it's Pranab !!
 
- 2nd Year CSE Student  
+ CSE  
  Passionate about Quantum Physics, AI/ML & SpaceTech   
  Exploring Quantum Computing, Astroinformatics & Startups  
- Love blending **Physics + Computer Science** into meaningful projects 
- Goal: Become a **Quantum Computing / AI Research Engineer** PYTHON Developer
+ Love blending **Physics + Computer Science** into meaningful projects
+ Goal: Become a **Quantum Computing / AI Research Engineer** with strong foundation in PYTHON Development
 
 ---
 
@@ -68,11 +68,16 @@ Most Preferbly, Python
 ## ✨ Fun Fact
 
 '''⚛️ When I’m not coding, I love thinking about **time travel, quantum entanglement and parallel universes. Getting ready for meeting there soon.** '''
-- I love exploring the mysteries of **Quantum Mechanics & Time Travel** ⏳✨  
-- I can switch from writing **AI models** 🤖 to discussing **Black Holes** 🕳️ without missing a beat!  
-- Coffee ☕ + Code 💻 + Physics 📚 = Perfect day for me!
+- I love exploring the mysteries of **Quantum Mechanics & Time Travel** ⏳
+- I can switch from writing **AI models** to discussing **Black Holes**  without missing a beat!  
 
 ---
 
 ## 👀 Profile Visitors
 ![Profile views](https://komarev.com/ghpvc/?username=PranabSantra45&color=blue&style=flat-square)
+
+---
+
+Let's innovate together! 🚀
+
+---
