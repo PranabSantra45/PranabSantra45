@@ -13,7 +13,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranabsantra)
 [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranabsantra466@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PranabSantra45)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=github&logoColor=white)](https://facebook.com/PranabSantra45)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/PranabSantra45)
 
 ---
 
